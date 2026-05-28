@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main(){
-printf("teste.txt\n");
+printf("Olá, Lab de EDII!\n");
 }
